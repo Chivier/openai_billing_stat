@@ -1,7 +1,14 @@
-# Tauri + Vue 3
+# OpenAI Billing Stat
 
-This template should help get you started developing with Tauri + Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is designed to help users calculate the total cost of using OpenAI API services. The tool is specifically developed to provide an easy and straightforward way for businesses and individuals to get billing statistics and pricing insights.
 
-## Recommended IDE Setup
+![dashboard](./assets/dashboard.png)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![settings](./assets/settings.png)
+
+# Install
+
+```bash
+npm run tauri build
+```
+
